@@ -1,0 +1,41 @@
+
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+G
+src/main/kotlin/Main.kt,d\8\d83ae3847b7d408136086cc5e9e95f5f7c126ed5
+Q
+!src/main/kotlin/Clases/Article.kt,a\d\ad887c034259a86eef67836dee320cabfaadf4a5
+]
+-src/main/kotlin/Interfaces/IArticleManager.kt,9\a\9a5559197aa75c3ce90aef2bd5050d432010c593
+[
++src/main/kotlin/Interfaces/IVideoManager.kt,3\e\3ef75272789299f4ceeca4853f2383405193cc2b
+]
+-src/main/kotlin/Interfaces/IPodcastManager.kt,c\2\c2ce860d50f95d725696b34c4d2f7b5bc97bef08
+M
+src/main/kotlin/Clases/CMS.kt,b\b\bb09fe25caa979efaaf4e1fbcc5ce4d600990cf9
+R
+"src/main/kotlin/Clases/MArticle.kt,0\6\061091f520dc0eaf2844bc60961bedae94250745
+R
+"src/main/kotlin/Clases/MPodcast.kt,f\d\fd0bfe2386bfda7ca296a8ac7177da5aba8a3af2
+P
+ src/main/kotlin/Clases/MVideo.kt,6\0\601492d854a55fc07c5387adc185ecbe09ad31b3
+V
+&src/main/kotlin/Interfaces/IEjemplo.kt,3\0\300bf095596628006d80ea6245faa7f2eeb3951c
+Q
+!src/main/kotlin/Clases/Podcast.kt,4\7\470abd1f170a06bf6ddb7cf1d4256b2b776885ec
+O
+src/main/kotlin/Clases/Video.kt,6\f\6f3ce167825686717ed1e53b9e0c5ec8f16ea13c
+O
+src/main/kotlin/Impl/Podcast.kt,0\d\0dcbd8f9501d7872fb2bcbddb2d31ac90b2fd284
+M
+src/main/kotlin/Impl/Video.kt,d\0\d079f81f566c2d9efd599f67cf8dbafde557188a
+O
+src/main/kotlin/Impl/Article.kt,4\0\40efd3ebfd490b1a32f7b2cd6c300767959ef5f8
+R
+"src/main/kotlin/Impl/ArticleCMS.kt,c\7\c72792abab949adde6d9c19074e0c6f9f06f1939
+K
+src/main/kotlin/Impl/CMS.kt,d\c\dc02948495b55a8c60201b16d7cee36e6ba19741
+R
+"src/main/kotlin/Impl/PodcastCMS.kt,8\e\8e8416801db12450c9887bb6366115df24837e07
+P
+ src/main/kotlin/Impl/VideoCMS.kt,1\b\1b3ec11c114ee70aeef444a1236bc25c09c2d2fe
